@@ -12,3 +12,4 @@ mandel-java x1 y1 x2 y2 pixels_x pixels_y archivo.bmp
 ## Cambios de Juan
 
 Modifique readme.md
+

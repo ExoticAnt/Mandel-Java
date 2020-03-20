@@ -13,3 +13,9 @@ mandel-java x1 y1 x2 y2 pixels_x pixels_y archivo.bmp
 
 Modifique readme.md
 
+
+## Cambios de facu
+Inicio del proyecto
+
+## 
+
